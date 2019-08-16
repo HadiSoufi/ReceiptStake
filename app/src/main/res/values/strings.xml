@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReceiptStake</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open_camera">Add New</string>
+    <string name="replace">Replace</string>
+    <string name="remove">Remove</string>
+</resources>
